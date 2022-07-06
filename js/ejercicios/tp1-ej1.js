@@ -1,2 +1,2 @@
 //alert'un mensaje'
-alert('un mensaje');
+alert('Un Mensaje');
